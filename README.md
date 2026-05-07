@@ -13,7 +13,7 @@ A responsive Amazon-inspired frontend clone built using HTML, CSS, and JavaScrip
 * 🔍 Search bar UI
 * 🧩 Product sections and cards
 * 🎨 Clean styling and structured layout
-* ⚡ Interactive frontend experience
+* ⚡ Interactive frontend experience with smoother operation
 
 ---
 
